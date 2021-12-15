@@ -1,3 +1,30 @@
+Gautam Rao | Homepage  
+
+Gautam Rao
+==========
+
+Associate Professor of Economics, Harvard University
+
+* * *
+
+[Bio](./#bio)
+
+[Contact](./#contact)
+
+[Office Hours](./#officehours)
+
+[Publications](./#publications)
+
+[Working Papers](./#workingpapers)
+
+[Work in Progress](./#workinprogress)
+
+[From Another Life](./#fromanotherlife)
+
+[Personal](./#personal)
+
+![Logo](./gr.jpg)
+
 ## Bio
 
 I am an Associate Professor (without tenure) at the [Department of Economics](http://economics.harvard.edu/) at Harvard University. I graduated from UC Berkeley with a PhD in Economics in 2014. 
