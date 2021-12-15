@@ -8,11 +8,47 @@ Together with Frank Schilbach and Heather Schofield, I help run the [Behavioral 
 
 __[Curriculum Vitae](/pdf/Rao_CV_latest.pdf")__ (Updated October 2021)
 
+## Contact
+__Email__: [grao@fas.harvard.edu](grao@fas.harvard.edu)  
+__Tel__: +1 (857) 998-4505  
+__Address__:  
+Department of Economics  
+Littauer Center M-30, Harvard University  
+Cambridge, MA 02138  
+U.S.A.  
 
-### Markdown
+__Teaching__ (Spring 2021)  
+Econ 2338: Behavioral Development Economics   
+Econ 980: Behavioral Economics of Poverty and Development (junior seminar)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+__[Information](/info_for_potential)__ for (potential) advisees
 
+## Office Hour
+
+Office hour appointments can be booked online or by email. The default option is to meet in person at M30 Littauer. However, if you prefer to meet on Zoom, just let me know. We can meet at https://harvard.zoom.us/my/raogautam during your slot. 
+
+Online signup (students only):  https://raoofficehours.as.me/  
+
+Note: If the above slots don't work for you, please email me to set up a meeting.
+
+## Publications
+works:
+- title: "The title of the article"
+  pdflink: "http://example.com/link-to-the.pdf"
+  book: "Where and when does the article appear"
+  note: "A short note displayed under the title"
+  coauthors: "Coauthor A, Coauthor B and Coauthor C"
+  links:
+    - url: "http://example.com/external-link-1"
+      text: "Text of the link"
+      note: "A short description of the link"
+    - url: "http://example.com/external-link-2"
+      text: "Text of the link"
+      note: "An unlimited number of links are supported!"
+  abstract: >
+    Abstract of the article. Don't forget the ">" above.
+    
+    
 ```markdown
 Syntax highlighted code block
 
