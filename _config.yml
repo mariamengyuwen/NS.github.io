@@ -1,11 +1,3 @@
 title: Naveen Sunder
 description: Assistant Professor of Economics, Bentley University
-layout: page
-sidebar: true
-featured-tags: true
-logo: /assets/img/logo.png
-show_downloads: true
-nav:
-    - Home: 'index.md'
-    - Bio: 'Aboutme.md'
 theme: jekyll-theme-minimal
