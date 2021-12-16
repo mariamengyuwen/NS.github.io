@@ -1,10 +1,7 @@
-relativeURLs = true
-title = "Naveen Sunder"
-theme = "jekyll-theme-minimal"
-sectionPagesMenu = "main"
-defaultContentLanguage = "en"
-ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
-
-[params]
-    shortbio = "Assistant Professor of Economics, Bentley University"
-    logo = "gr.jpg" 
+title: [Naveen Sunder]
+description: [Assistant Professor of Economics, Bentley University]
+sidebars:
+  - Bio
+  - Publications
+image_path: content/gr.jpg
+theme: jekyll-theme-minimal
