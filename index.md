@@ -9,19 +9,9 @@ Associate Professor of Economics, Harvard University
 
 [Bio](./#bio)
 
-[Contact](./#contact)
-
-[Office Hours](./#officehours)
-
 [Publications](./#publications)
 
-[Working Papers](./#workingpapers)
-
 [Work in Progress](./#workinprogress)
-
-[From Another Life](./#fromanotherlife)
-
-[Personal](./#personal)
 
 ![Logo](./gr.jpg)
 
@@ -35,36 +25,6 @@ My research tries to bring insights from psychology to bear on topics in economi
 Together with Frank Schilbach and Heather Schofield, I help run the [Behavioral Development Lab](https://behavioraldevlab.org/index.html) in India. I am a Faculty Research Fellow at the National Bureau of Economic Research (NBER), and a faculty affiliate at the The Abdul Latif Jameel Poverty Action Lab (JPAL). From 2018 to 2020, I served as an Associate Editor at the Journal of Political Economy.
 
 **[Curriculum Vitae](./pdf/Rao_CV_latest.pdf)** (Updated October 2021)
-
-* * *
-
-Contact
--------
-
-**Email**: [grao@fas.harvard.edu](grao@fas.harvard.edu)  
-**Tel**: +1 (857) 998-4505  
-**Address**:  
-Department of Economics  
-Littauer Center M-30, Harvard University  
-Cambridge, MA 02138  
-U.S.A.
-
-**Teaching** (Spring 2021)  
-Econ 2338: Behavioral Development Economics  
-Econ 980: Behavioral Economics of Poverty and Development (junior seminar)
-
-**[Information](./info_for_potential)** for (potential) advisees
-
-* * *
-
-Office Hours
-------------
-
-Office hour appointments can be booked online or by email. The default option is to meet in person at M30 Littauer. However, if you prefer to meet on Zoom, just let me know. We can meet at [https://harvard.zoom.us/my/raogautam](https://harvard.zoom.us/my/raogautam) during your slot.
-
-Online signup (students only): [https://raoofficehours.as.me/](https://raoofficehours.as.me/)
-
-Note: If the above slots don’t work for you, please email me to set up a meeting.
 
 * * *
 
