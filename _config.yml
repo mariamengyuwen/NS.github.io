@@ -1,6 +1,6 @@
 relativeURLs = true
 title = "Naveen Sunder"
-theme = "Jeykll Minimal Theme"
+theme = "jekyll-theme-minimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
