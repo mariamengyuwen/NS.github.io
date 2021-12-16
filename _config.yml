@@ -1,3 +1,10 @@
-title: [Naveen Sunder]
-description: [Assistant Professor of Economics, Bentley University]
-theme: jekyll-theme-minimal
+relativeURLs = true
+title = "Gautam Rao"
+theme = "academimal"
+sectionPagesMenu = "main"
+defaultContentLanguage = "en"
+ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
+
+[params]
+    shortbio = "Associate Professor of Economics, Harvard University"
+    logo = "gr.jpg" 
