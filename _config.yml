@@ -6,7 +6,9 @@ sidebar: true
     home: /
     tags: /tags.html
 featured-tags: true
-theme: jekyll-theme-minimal
 logo: /assets/img/logo.png
 show_downloads: true
-google_analytics:
+nav:
+    - Home: 'index.md'
+    - Bio: 'Aboutme.md'
+theme: jekyll-theme-minimal
