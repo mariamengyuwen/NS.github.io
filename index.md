@@ -1,39 +1,42 @@
 Bio
 ---
 
-I am an Associate Professor (without tenure) at the [Department of Economics](http://economics.harvard.edu/) at Harvard University. I graduated from UC Berkeley with a PhD in Economics in 2014.
+Welcome to my web page!
 
-My research tries to bring insights from psychology to bear on topics in economics, particularly topics relevant to developing countries. Recent projects include studying how improving sleep affects the economic outcomes of workers in India, how the endowment effect influences consumer demand for collateralized loans in Kenya, how research findings affect the beliefs and policy choices of mayors in Brazil, and how mixing rich and poor students in schools in India affects social preferences and behaviors.
+I am an Assistant Professor of Economics at Bentley University. I was a postdoctoral reserarcher in the Harvard T.H. Chan School of Public Health from 2019-20. I graduated with a Ph.D in Economics from Cornell University in 2019.
 
-Together with Frank Schilbach and Heather Schofield, I help run the [Behavioral Development Lab](https://behavioraldevlab.org/index.html) in India. I am a Faculty Research Fellow at the National Bureau of Economic Research (NBER), and a faculty affiliate at the The Abdul Latif Jameel Poverty Action Lab (JPAL). From 2018 to 2020, I served as an Associate Editor at the Journal of Political Economy.
+I am a development economist who focusses on policy-relevant questions related to health, education and nutrition in low- and middle- income countries. In recent years I have conducted research in China, India, Madagascar, Senegal, Tanzania and Uganda.
 
-**[Curriculum Vitae](./pdf/Rao_CV_latest.pdf)** (Updated October 2021)
+I am an [Associate Member at the REAL Centre](https://www.educ.cam.ac.uk/centres/real/members/associatedmembers/) at the University of Cambridge (UK).
+
+__[Curriculum Vitae]("https://www.dropbox.com/s/iermru11ehf8fc0/NS-CV.pdf?dl=0")__ 
 
 * * *
 
 Publications
 ------------
 
-### [The Importance of Being Marginal: Gender Differences in Generosity](./pdf/GenderGenerosityAERPP2013Final.pdf)
+### [What Doesn't Kill Her Will Make Her Depressed]("https://www.sciencedirect.com/science/article/abs/pii/S1570677X21000897")
 
-(with Stefano DellaVigna, John List and Ulrike Malmendier)
+(with with Yanan Li)
 
-_American Economic Review Papers and Proceedings, May 2013_
-
-[Abstract (click to expand)](javascript:toggle(0)): Do men and women have different social preferences? Previous findings are contradictory. We provide a potential explanation using evidence from a field experiment. In a door-to-door solicitation, men and women are equally generous, but women become less generous when it becomes easy to avoid the solicitor. Our structural estimates of the social preference parameters suggest an explanation: women are more likely to be on the margin of giving, partly because of a less dispersed distribution of altruism. We find similar results for the willingness to complete an unpaid survey: women are more likely to be on the margin of participation.
-
-[Online Appendix](./pdf/GenderGenerosityAERP&P2013OnlineApp.pdf)
+_Economics and Human Biology, December 2021_
 
 * * *
 
 Work in Progress
 ----------------
 
-### The Endowment Effect and Collateralized Loans
+### Mental Health and Education: Average and Distributional Effects in the Long Run
 
-(with Kevin Carney, Xinyue Lin, and Michael Kremer)
+(with Yanan Li)
 
-[Slides](./pdf/Endowment%20Effect%20Posted%20Slides.pdf)
+_Revisions Reuqested (2nd Round), **Review of Economics and Statistics**_
 
+<detail>
+<summary>Abstract (click to expand)</summary>
+
+Do men and women have different social preferences? Previous findings are contradictory. We provide a potential explanation using evidence from a field experiment. In a door-to-door solicitation, men and women are equally generous, but women become less generous when it becomes easy to avoid the solicitor. Our structural estimates of the social preference parameters suggest an explanation: women are more likely to be on the margin of giving, partly because of a less dispersed distribution of altruism. We find similar results for the willingness to complete an unpaid survey: women are more likely to be on the margin of participation.
+</details>
 
 function toggle(pid) { objid = "pubabs\_" + pid.toString(); linkid = "pubabslink\_" + pid.toString(); absobj = document.getElementById(objid); linkobj = document.getElementById(linkid); if (absobj.style.display === "none") { absobj.style.display = "inline"; linkobj.style.display = "none"; } else { absobj.style.display = "none"; linkobj.style.display = "inline"; } }
