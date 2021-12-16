@@ -1,10 +1,10 @@
 relativeURLs = true
-title = "Gautam Rao"
-theme = "academimal"
+title = "Naveen Sunder"
+theme = "Jeykll Minimal Theme"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbio = "Associate Professor of Economics, Harvard University"
+    shortbio = "Assistant Professor of Economics, Bentley University"
     logo = "gr.jpg" 
