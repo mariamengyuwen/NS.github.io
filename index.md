@@ -17,7 +17,7 @@ Publications
 ------------
 
 ### [What Doesn't Kill Her Will Make Her Depressed](https://www.sciencedirect.com/science/article/abs/pii/S1570677X21000897)
-(with with Yanan Li)
+(with Yanan Li)  
 _Economics and Human Biology, December 2021_
 
 * * *
@@ -27,7 +27,7 @@ Work in Progress
 
 ### Mental Health and Education: Average and Distributional Effects in the Long Run
 
-(with Yanan Li)
+(with Yanan Li)  
 _Revisions Reuqested (2nd Round), **Review of Economics and Statistics**_
 <details>
 <summary>Abstract (click to expand)</summary>
