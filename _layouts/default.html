@@ -17,15 +17,14 @@
       <header>
         <style>
         img {width: 80%;}
-        p.sidebar {line-height: 0.5;
-          }
+        p.sidebar {line-height: 0.5;}
         </style>        
             <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
             <p>{{ site.description | default: site.github.project_tagline }}</p>
             <hr>
             <p class="sidebar"><a href="./#bio">Bio</a></p>
-            <p class="contactinfo"><a href="./#publications">Publications</a></p>
-            <p class="contactinfo"><a href="./#workinprogress">Work in Progress</a></p>
+            <p class="sidebar"><a href="./#publications">Publications</a></p>
+            <p class="sidebar"><a href="./#workinprogress">Work in Progress</a></p>
             {% if site.logo %}
               <img src="{{site.logo | relative_url}}" alt="Logo" />
             {% endif %}
