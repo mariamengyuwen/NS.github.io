@@ -1,14 +1,10 @@
----
----
-
-@import "jekyll-theme-minimal";
-
 body {
   background-color: #fff;
   padding:50px;
   font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color:#595959;
   font-weight:400;
+  text-align: justify;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -22,6 +18,7 @@ p, ul, ol, table, pre, dl {
 
 h1, h2 {
   line-height:1.1;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 h1 {
@@ -35,9 +32,9 @@ h2 {
 }
 
 h3, h4, h5, h6 {
-  color:#00BFFF;
+  color:#39c;
   font-weight: 500;
-  line-height:1.0;
+  line-height: 1.1;
 }
 
 a {
@@ -176,7 +173,7 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:550px;
   float:right;
   padding-bottom:50px;
 }
@@ -187,8 +184,8 @@ small {
 
 hr {
   border:0;
-  background:#e5e5e5;
-  height:1px;
+  background:#9d9a9a;
+  height:1.5px;
   margin:0 0 20px;
 }
 
