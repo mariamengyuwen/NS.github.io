@@ -34,7 +34,6 @@ Revisions Reuqested (2nd Round), **Review of Economics and Statistics**
 Do men and women have different social preferences? Previous findings are contradictory. We provide a potential explanation using evidence from a field experiment. In a door-to-door solicitation, men and women are equally generous, but women become less generous when it becomes easy to avoid the solicitor. Our structural estimates of the social preference parameters suggest an explanation: women are more likely to be on the margin of giving, partly because of a less dispersed distribution of altruism. We find similar results for the willingness to complete an unpaid survey: women are more likely to be on the margin of participation.
 </details>  
 
-
 ### Title  
 (with co-author)  
 Revisions Reuqested (nth Round), **Journal**
