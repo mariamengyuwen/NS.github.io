@@ -23,8 +23,8 @@ Those three sections are controlled by index.md.
 - Add documents：
   1. Upload documents in content
   2. `[document](path to the document)`
-- Change fonts and colors: modify `asset/style.css` by adding font-family and color
-        [Website for font code](https://www.w3schools.com/css/css_font_websafe.asp)
+- Change fonts and colors: modify `asset/style.css` by adding font-family and color  
+        [Website for font code](https://www.w3schools.com/css/css_font_websafe.asp)  
         [Website for color code](https://www.w3schools.com/colors/default.asp)
   1. For section title, modify:  
           `h1, h2 {line-height:1.1;
