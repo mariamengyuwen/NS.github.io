@@ -173,7 +173,7 @@ header ul a strong {
 }
 
 section {
-  width:800px;
+  width:550px;
   float:right;
   padding-bottom:50px;
 }
@@ -182,7 +182,7 @@ small {
   font-size:11px;
 }
 
-hr / {
+hr {
   border:0;
   background:#9d9a9a;
   height:1.5px;
