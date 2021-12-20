@@ -37,7 +37,7 @@ Do men and women have different social preferences? Previous findings are contra
 
 ### Title  
 (with co-author)  
-Revisions Reuqested (nth Round), **Journal**_
+Revisions Reuqested (nth Round), **Journal**
 <details>
 <summary>Abstract (click to expand)</summary>
 
